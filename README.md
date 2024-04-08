@@ -1,1 +1,1 @@
-# Aamazon_Clone_CssHTML
+# Amazon_Clone_CssHTML
