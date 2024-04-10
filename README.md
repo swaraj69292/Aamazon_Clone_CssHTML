@@ -1,2 +1,2 @@
 # Amazon_Clone_CssHTML
-Website(https://amazonclone1swaraj.netlify.app/)
+Website: https://amazonclone1swaraj.netlify.app/
